@@ -1,6 +1,8 @@
 {
   "values": [
     "tommod:sapphire_block",
-    "tommod:raw_sapphire_block"
+    "tommod:raw_sapphire_block",
+    "tommod:sapphire_ore",
+    "tommod:deepslate_sapphire_ore"
   ]
 }

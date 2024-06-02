@@ -5,5 +5,8 @@
   "block.tommod.sapphire_block": "Block of Sapphire",
   "block.tommod.raw_sapphire_block": "Block of Raw Sapphire",
 
+  "block.tommod.sapphire_block": "Sapphire Ore",
+  "block.tommod.deepslate_sapphire_block": "Sapphire Ore",
+
   "creativetab.tom_tab": "Tom Tab"
 }
