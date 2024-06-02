@@ -1,4 +1,6 @@
 {
   "item.tommod.sapphire": "Sapphire",
-  "item.tommod.raw_sapphire": "Raw Sapphire"
+  "item.tommod.raw_sapphire": "Raw Sapphire",
+
+  "creativetab.tom_tab": "Tom Tab"
 }
