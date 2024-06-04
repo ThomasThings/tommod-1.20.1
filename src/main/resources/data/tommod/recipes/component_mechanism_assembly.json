@@ -1,0 +1,89 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tommod:rose_gold_sheet"
+  },
+  "transitionalItem": {
+    "item": "tommod:incomplete_component_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tommod:incomplete_component_mechanism"
+        },
+        [
+          {
+            "item": "tommod:component_gear"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "tommod:incomplete_component_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tommod:incomplete_component_mechanism"
+        },
+        [
+          {
+            "item": "tommod:component_gear"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "tommod:incomplete_component_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tommod:incomplete_component_mechanism"
+        },
+        [
+          {
+            "item": "tommod:component_shaft"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "tommod:incomplete_component_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tommod:incomplete_component_mechanism"
+        },
+        [
+          {
+            "item": "create:brass_sheet"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "tommod:incomplete_component_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "tommod:component_mechanism"
+    }
+  ],
+  "loops": 2
+}

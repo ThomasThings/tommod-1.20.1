@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:brass_sheet"
+  },
+  "transitionalItem": {
+    "item": "tommod:incomplete_component_gear"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tommod:incomplete_component_gear"
+        },
+        [
+          {
+            "item": "create:brass_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "tommod:incomplete_component_gear"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tommod:incomplete_component_gear"
+        },
+        [
+          {
+            "item": "create:brass_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "tommod:incomplete_component_gear"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "tommod:incomplete_component_gear"
+        }
+      ],
+      "results": [
+        {
+          "item": "tommod:incomplete_component_gear"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "tommod:component_gear"
+    }
+  ],
+  "loops": 1
+}

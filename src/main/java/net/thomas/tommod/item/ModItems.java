@@ -15,6 +15,22 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> RAW_SAPPHIRE = ITEMS.register("raw_sapphire",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COMPONENT_GEAR = ITEMS.register("component_gear",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> INCOMPLETE_COMPONENT_GEAR = ITEMS.register("incomplete_component_gear",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> ROSE_GOLD_INGOT = ITEMS.register("rose_gold_ingot",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> ROSE_GOLD_NUGGET = ITEMS.register("rose_gold_nugget",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> ROSE_GOLD_SHEET = ITEMS.register("rose_gold_sheet",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COMPONENT_SHAFT = ITEMS.register("component_shaft",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COMPONENT_MECHANISM = ITEMS.register("component_mechanism",
+            () -> new Item(new Item.Properties()));
+        public static final RegistryObject<Item> INCOMPLETE_COMPONENT_MECHANISM = ITEMS.register("incomplete_component_mechanism",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

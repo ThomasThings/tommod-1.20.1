@@ -8,5 +8,17 @@
   "block.tommod.sapphire_ore": "Sapphire Ore",
   "block.tommod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
 
+  "item.tommod.rose_gold_ingot": "Rose Gold Ingot",
+  "item.tommod.rose_gold_nugget": "Rose Gold Nugget",
+  "item.tommod.rose_gold_sheet": "Rose Gold Sheet",
+  "block.tommod.rose_gold_block": "Block of Rose Gold",
+
+  "item.tommod.component_gear": "Component Gear",
+  "item.tommod.incomplete_component_gear": "Incomplete Component Gear",
+  "item.tommod.component_shaft": "Component Shaft",
+  "item.tommod.component_mechanism": "Component Mechanism",
+  "item.tommod.incomplete_component_mechanism": "Incomplete Component Mechanism",
+
+
   "creativetab.tom_tab": "Tom Tab"
 }

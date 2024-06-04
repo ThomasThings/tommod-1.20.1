@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tommod:item/incomplete_component_gear"
+  }
+}

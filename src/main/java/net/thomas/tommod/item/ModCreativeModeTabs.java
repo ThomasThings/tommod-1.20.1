@@ -25,6 +25,16 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
                         output.accept(ModBlocks.SAPPHIRE_ORE.get());
                         output.accept(ModBlocks.DEEPSLATE_SAPPHIRE_ORE.get());
+
+                        output.accept(ModItems.COMPONENT_GEAR.get());
+                        output.accept(ModItems.COMPONENT_SHAFT.get());
+
+                        output.accept(ModItems.ROSE_GOLD_INGOT.get());
+                        output.accept(ModBlocks.ROSE_GOLD_BLOCK.get());
+                        output.accept(ModItems.ROSE_GOLD_NUGGET.get());
+                        output.accept(ModItems.ROSE_GOLD_SHEET.get());
+
+                        output.accept(ModItems.COMPONENT_MECHANISM.get());
                     }))
                     .build());
 
